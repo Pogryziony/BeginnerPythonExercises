@@ -10,7 +10,3 @@ def sum_array():
     sum_of_array = sum(arr)
     print(sum_of_array)
     return sum_of_array
-
-
-class SumOfArray:
-    pass

@@ -13,7 +13,3 @@ def is_palindrome():
         print("Text: " + text)
         print("Reversed text :" + reversed_text)
         return False
-
-
-class CheckForPalindrome:
-    pass

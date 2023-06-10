@@ -1,4 +1,7 @@
 from exercise_1.sum_of_array import sum_array
-from excersise_2.check_for_palindrome import is_palindrome
+from exercise_2.check_for_palindrome import is_palindrome
+from exercise_3.find_highest_number import find_highest_number
 
-is_palindrome()
+# sum_array()
+# is_palindrome()
+find_highest_number()
