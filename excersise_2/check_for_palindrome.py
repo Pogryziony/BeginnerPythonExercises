@@ -14,5 +14,6 @@ def is_palindrome():
         print("Reversed text :" + reversed_text)
         return False
 
+
 class CheckForPalindrome:
     pass
