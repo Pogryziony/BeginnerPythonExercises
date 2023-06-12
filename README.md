@@ -22,6 +22,9 @@ The project aims to provide a collection of Python programming exercises for lea
 | Exercise 2 | Check for palindrome | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_2/check_for_palindrome.py) |
 | Exercise 3 | Find highest number in array| Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_3/find_highest_number.py) |
 | Exercise 4 | Find average from array| Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_4/find_avg.py)|
+| Exercise 5 | Description | Difficulty | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_5/solution.py) |
+| Exercise 6 | Description | Difficulty | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_6/solution.py) |
+| Exercise 7 | Description | Difficulty | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_7/solution.py) |
 
 ## Getting Started
 
