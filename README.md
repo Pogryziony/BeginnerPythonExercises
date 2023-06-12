@@ -25,7 +25,7 @@ The project aims to provide a collection of Python programming exercises for lea
 | Exercise 5 | Count letter occurences in text | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_5/count_letter_occurrences.py) |
 | Exercise 6 | Convert decimal to binary | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_6/decimal_to_binary.py) |
 | Exercise 7 | Find largest number in array | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_7/find_largest_number.py) |
-| Exercise 8 | Guessing game | Easy+ | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_7/find_largest_number.py) |
+| Exercise 8 | Guessing game | Easy+ | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_8/guessing_game.py) |
 
 ## Getting Started
 
