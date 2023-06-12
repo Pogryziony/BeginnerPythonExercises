@@ -4,10 +4,12 @@ from exercise_3.find_highest_number import find_highest_number
 from exercise_4.find_avg import find_avg
 from exercise_5.count_letter_occurrences import count_letter_occurrences
 from exercise_6.decimal_to_binary import decimal_to_binary
+from exercise_7.find_largest_number import find_largest_number
 
 # sum_array()
 # is_palindrome()
 # find_highest_number()
 # find_avg()
 # count_letter_occurrences()
-decimal_to_binary()
+# decimal_to_binary()
+find_largest_number()
