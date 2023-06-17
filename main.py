@@ -7,6 +7,7 @@ from exercise_6.decimal_to_binary import decimal_to_binary
 from exercise_7.find_largest_number import find_largest_number
 from exercise_8.guessing_game import guessing_game
 from exercise_9.fibonacci_sequence import fibonacci_sequence
+from exercise_10.analyze_text import analyze_text
 
 # sum_array()
 # is_palindrome()
@@ -16,4 +17,5 @@ from exercise_9.fibonacci_sequence import fibonacci_sequence
 # decimal_to_binary()
 # find_largest_number()
 # guessing_game()
-fibonacci_sequence(50)
+# fibonacci_sequence(50)
+analyze_text()
