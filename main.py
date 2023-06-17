@@ -6,6 +6,7 @@ from exercise_5.count_letter_occurrences import count_letter_occurrences
 from exercise_6.decimal_to_binary import decimal_to_binary
 from exercise_7.find_largest_number import find_largest_number
 from exercise_8.guessing_game import guessing_game
+from exercise_9.fibonacci_sequence import fibonacci_sequence
 
 # sum_array()
 # is_palindrome()
@@ -14,4 +15,5 @@ from exercise_8.guessing_game import guessing_game
 # count_letter_occurrences()
 # decimal_to_binary()
 # find_largest_number()
-guessing_game()
+# guessing_game()
+fibonacci_sequence(50)
