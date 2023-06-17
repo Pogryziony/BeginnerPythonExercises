@@ -3,23 +3,11 @@ def analyze_text():
     words = len(text.split(' '))
     chars = len(text)
     sentences = len(text.split('.')) - 1
-    small_letters = 0
-    big_letters = 0
-    numbers = 0
-    spaces = 0
-    other_chars = 0
-
-    for char in text:
-        if char.islower():
-            small_letters += 1
-        elif char.isdigit():
-            numbers += 1
-        elif char.isupper():
-            big_letters += 1
-        elif char.isspace():
-            spaces += 1
-        else:
-            other_chars += 1
+    small_letters = sum(1 for char in text if char.islower())
+    big_letters = sum(1 for char in text if char.isupper())
+    numbers = sum(1 for char in text if char.isnumeric())
+    spaces = sum(1 for char in text if char.isspace())
+    other_chars = sum(1 for char in text if not char.isalnum() and not char.isspace())
 
     print(
         f"Words: {words}\n"
