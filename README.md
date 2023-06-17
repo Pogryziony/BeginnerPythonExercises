@@ -26,6 +26,8 @@ The project aims to provide a collection of Python programming exercises for lea
 | Exercise 6 | Convert decimal to binary | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_6/decimal_to_binary.py) |
 | Exercise 7 | Find largest number in array | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_7/find_largest_number.py) |
 | Exercise 8 | Guessing game | Easy+ | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_8/guessing_game.py) |
+| Exercise 9 | Fibonacci sequence | Easy | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_9/fibonacci_sequence.py) |
+| Exercise 10 | Analyze text | Easy+ | [Link to solution](https://github.com/Pogryziony/BeginnerPythonExercises/blob/master/exercise_10/analyze_text.py) |
 
 ## Getting Started
 
